@@ -16,6 +16,18 @@
     <img alt="Discord" src="./images/discord.svg" height="20">
   </a>
 </p>
+<p align="center">
+  <!-- Keep these links. Translations will automatically update with the README. -->
+  <a href="https://readme-i18n.com/chatdoc-com/OCRFlux?lang=de">Deutsch</a> | 
+  <a href="https://readme-i18n.com/chatdoc-com/OCRFlux?lang=en">English</a> | 
+  <a href="https://readme-i18n.com/chatdoc-com/OCRFlux?lang=es">Español</a> | 
+  <a href="https://readme-i18n.com/chatdoc-com/OCRFlux?lang=fr">français</a> | 
+  <a href="https://readme-i18n.com/chatdoc-com/OCRFlux?lang=ja">日本語</a> | 
+  <a href="https://readme-i18n.com/chatdoc-com/OCRFlux?lang=ko">한국어</a> | 
+  <a href="https://readme-i18n.com/chatdoc-com/OCRFlux?lang=pt">Português</a> | 
+  <a href="https://readme-i18n.com/chatdoc-com/OCRFlux?lang=ru">Русский</a> | 
+  <a href="https://readme-i18n.com/chatdoc-com/OCRFlux?lang=zh">中文</a>
+</p>
 
 OCRFlux is a multimodal large language model based toolkit for converting PDFs and images into clean, readable, plain Markdown text. It aims to push the current state-of-the-art to a significantly higher level.
 
