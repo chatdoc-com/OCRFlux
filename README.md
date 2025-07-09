@@ -19,7 +19,6 @@
 <p align="center">
   <!-- Keep these links. Translations will automatically update with the README. -->
   <a href="https://readme-i18n.com/chatdoc-com/OCRFlux?lang=de">Deutsch</a> | 
-  <a href="https://readme-i18n.com/chatdoc-com/OCRFlux?lang=en">English</a> | 
   <a href="https://readme-i18n.com/chatdoc-com/OCRFlux?lang=es">Español</a> | 
   <a href="https://readme-i18n.com/chatdoc-com/OCRFlux?lang=fr">français</a> | 
   <a href="https://readme-i18n.com/chatdoc-com/OCRFlux?lang=ja">日本語</a> | 
