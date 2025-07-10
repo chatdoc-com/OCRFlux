@@ -248,7 +248,7 @@ conda create -n ocrflux python=3.11
 conda activate ocrflux
 
 git clone https://github.com/chatdoc-com/OCRFlux.git
-cd ocrflux
+cd OCRFlux
 
 pip install -e . --find-links https://flashinfer.ai/whl/cu124/torch2.5/flashinfer/
 ```
